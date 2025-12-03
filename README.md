@@ -12,8 +12,8 @@
   <a href="mailto:gustavoasjunior@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-C5A059?style=for-the-badge&logo=gmail&logoColor=101010&labelColor=101010" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/gustavoasjunior">
-    <img src="https://img.shields.io/badge/LINKEDIN-C5A059?style=for-the-badge&logo=linkedin&logoColor=101010&labelColor=101010" alt="LinkedIn" />
+  <a href="https://drive.google.com/file/d/1Xjju4sqp1MtxUjNjSwZg5i9U0QZfHlEk/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CURRICULUM-VITAE-C5A059?style=for-the-badge&logo=curriculo&logoColor=101010&labelColor=101010" alt="Curriculo" />
   </a>
 </div>
 
